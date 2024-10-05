@@ -1,7 +1,7 @@
 # README: How to Rename File and update extenion in VS Code
 
 This guide will walk you through renaming files and changing file extensions using VS Code.
-# YOUTUBE VIDEO LINK : https://youtu.be/ye6qXQTWi9o
+# YOUTUBE VIDEO LINK : https://youtu.be/NsA2NfaUqog
 
 ### Step-by-Step Instructions
 
